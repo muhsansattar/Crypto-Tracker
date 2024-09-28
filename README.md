@@ -80,8 +80,8 @@ Ensure you have the following installed on your machine:
    - npm install
    - Set up Moralis:
 
-    Create a Moralis account and set up a new app to get your application ID and server URL.
-    Update your .env file with your Moralis credentials.
+    - Create a Moralis account and set up a new app to get your application ID and server URL.
+      Update your .env file with your Moralis credentials.
    
    - npm start
    - Open your browser and navigate to http://localhost:3000 to access the Crypto Tracker application.
